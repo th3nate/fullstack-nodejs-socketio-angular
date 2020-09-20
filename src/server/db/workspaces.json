@@ -1,0 +1,44 @@
+[
+    {
+        "id":        "1",
+        "eventId":   "1",
+        "owner":     "jane@doe.com",
+        "status":    "offline/preparing/ready/terminated/deleted",
+        "createdAt": "2018-08-09T18:13:00.294Z"
+    },
+    {
+        "id":        "2",
+        "eventId":   "1",
+        "owner":     "john@doe.com",
+        "status":    "offline/preparing/ready/terminated/deleted",
+        "createdAt": "2018-10-09T18:13:00.294Z"
+    },
+    {
+        "id":        "3",
+        "eventId":   "2",
+        "owner":     "mike@doe.com",
+        "status":    "offline/preparing/ready/terminated/deleted",
+        "createdAt": "2018-11-09T18:13:00.294Z"
+    },
+    {
+        "id":        "4",
+        "eventId":   "2",
+        "owner":     "jimmy@doe.com",
+        "status":    "offline/preparing/ready/terminated/deleted",
+        "createdAt": "2018-13-09T18:13:00.294Z"
+    },
+    {
+        "id":        "5",
+        "eventId":   "2",
+        "owner":     "daren@doe.com",
+        "status":    "offline/preparing/ready/terminated/deleted",
+        "createdAt": "2018-15-09T18:13:00.294Z"
+    },
+    {
+        "id":        "6",
+        "eventId":   "3",
+        "owner":     "david@doe.com",
+        "status":    "offline/preparing/ready/terminated/deleted",
+        "createdAt": "2018-18-09T18:13:00.294Z"
+    }
+]
