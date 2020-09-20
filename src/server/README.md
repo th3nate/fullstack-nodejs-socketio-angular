@@ -11,4 +11,4 @@ Then
 npm start
 ```
 
-Connections accepted at "ws://localhost:3001"
+Connections accepted at `http://localhost:3001`
